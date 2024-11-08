@@ -1,3 +1,4 @@
 # Nowcasting
 State-of-the-art forecasting technique
-[Uploading Nowcast.pdf…]()
+[Nowcast.pdf](https://github.com/user-attachments/files/17685100/Nowcast.pdf)
+
